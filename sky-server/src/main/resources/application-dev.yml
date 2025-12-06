@@ -9,4 +9,10 @@ sky:
   alioss:
 
 
+  redis:
+    host: localhost
+    port: 6379
+    password: 1347azhz
+    database: 10
+
 
